@@ -58,6 +58,7 @@ void q3(){
         cout<<endl;
     }
     cout<<dp[n][W]<<endl;
+    cout<<"Hello there"<<endl;
 }
 
 void q4(){
